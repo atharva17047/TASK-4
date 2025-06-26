@@ -40,7 +40,7 @@
 <body>
 
   <header>
-    <h1>John Doe - Web Developer</h1>
+    <h1>Atharva Belkar - Web Developer</h1>
     <p>Creating elegant and efficient web experiences.</p>
     <img src="your-photo.jpg" alt="Profile Photo">
   </header>
@@ -53,10 +53,11 @@
 
   <section class="about">
     <h2>About Me</h2>
-    <p>Hello! I’m John, a passionate web developer with a strong foundation in frontend and backend technologies.</p>
-    <p><strong>Education:</strong> B.Tech in Computer Science, XYZ University</p>
-    <p><strong>Experience:</strong> Intern at ABC Tech, Freelance Developer, Hackathon Winner</p>
+    <p>Hello! I’m Atharva, a passionate web developer with a strong foundation in frontend and backend technologies.</p>
+    <p><strong>Education:</strong> B.Tech in Computer Science</p>
+    <p><strong>Experience:</strong> Intern at ProdigyInfo Tech, Freelance Developer, Hackathon Winner</p>
   </section>
 
 </body>
 </html>
+
